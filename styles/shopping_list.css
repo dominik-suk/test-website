@@ -1,0 +1,21 @@
+body {
+    font-family: arial;
+    margin: 0;
+}
+
+#header {
+    background: #999;
+    padding: 1px 10px;
+}
+
+#footer {
+    background: black;
+    color: white;
+    padding: 15px;
+}
+
+#hi {
+    background: rgb(142, 176, 142);
+    margin: 10px;
+    border-radius: 5px;
+}
